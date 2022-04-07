@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d1368a2-de99-4a30-b68c-ad1c090b1187": {
+      "ProjectGuid": "1d1368a2-de99-4a30-b68c-ad1c090b1187",
+      "DisplayName": "SkandinavLottoFeltolt",
+      "ColorIndex": 0
+    },
+    "ea8b2fc4-9a41-49ee-8661-7ca6501b71c8": {
+      "ProjectGuid": "ea8b2fc4-9a41-49ee-8661-7ca6501b71c8",
+      "DisplayName": "SkandinavSzimulacio",
+      "ColorIndex": 1
+    },
+    "96126f52-a03c-449a-a5f1-90a50fd03dd4": {
+      "ProjectGuid": "96126f52-a03c-449a-a5f1-90a50fd03dd4",
+      "DisplayName": "SkandinavAdat",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
